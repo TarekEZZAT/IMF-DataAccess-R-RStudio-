@@ -1,6 +1,3 @@
-# R-IMF-010-DataAccess
-
-
 Access to IMF data files example
 
 
